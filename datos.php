@@ -55,6 +55,7 @@ class Articulo {
 
 class Tags {
     private $nombreTags;
+    
 
     public function __construct($nombreTags) {
         $this->nombreTags = $nombreTags;
