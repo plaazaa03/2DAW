@@ -101,3 +101,12 @@ form button {
     align-items: center;
 
 }
+
+p .tags {
+    display: inline-block;
+    background-color: azure;
+    padding: 5px 10px;
+    margin: 2px;
+    border-radius: 3px;
+    font-size: 80%;
+}
